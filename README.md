@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Week 03: Personal Portfolio Website
 
 ## Author
@@ -73,3 +74,43 @@ I solved these problems by reviewing the commands carefully and practicing the w
 ## Live Demo (if deployed)
 
 (https://xmacua.github.io/iyf-s10-week-03-xmacua)
+=======
+# Week 04: {JavaScript Fundamentals}
+
+## Author
+- **Name:** Macua Vivian Nyambura
+- **GitHub:** [https://github.com/xmacua)
+- **Date:** December 30, 2006
+
+## Project Description
+Brief description of what you built and why.
+
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+- (list all technologies)
+
+## Features
+- Feature 1
+- Feature 2
+- Feature 3
+
+## How to Run
+1. Clone this repository
+2. Open `index.html` in your browser
+   OR
+   Run `npm install` then `npm start`
+
+## Lessons Learned
+What did you learn while building this project?
+
+## Challenges Faced
+What problems did you encounter and how did you solve them?
+
+## Screenshots (optional)
+![Screenshot description](path/to/screenshot.png)
+
+## Live Demo (if deployed)
+[View Live Demo](https://your-deployed-url.com)
+>>>>>>> 77cb3ad3a8e200d5fa47419377fda2b138cc14c4
